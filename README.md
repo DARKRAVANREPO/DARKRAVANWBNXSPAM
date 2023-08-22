@@ -1,4 +1,4 @@
-<h1 align="center"><b>[⚡] DARK BOT [⚡]</b></h1>
+<h1 align="center"><b>[⚡] 𝙏𝙝𝙚𝙓𝘽𝙤𝙩𝙨 [⚡]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
@@ -24,6 +24,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/WEB_NET_CHATMASTI"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Dark_Ravan_01"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
 </details>
